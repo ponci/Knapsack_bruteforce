@@ -1,0 +1,7 @@
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\bin\Debug\mala_bruteforce.exe.config
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\obj\Debug\mala_bruteforce.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\bin\Debug\mala_bruteforce.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\bin\Debug\mala_bruteforce.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\obj\Debug\mala_bruteforce.exe
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\obj\Debug\mala_bruteforce.pdb
+C:\Users\Lucas Ponciano\Documents\Puc\5ºSemestre\Tap\mala_bruteforce\mala_bruteforce\bin\Debug\archive.txt
